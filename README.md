@@ -2,6 +2,8 @@
 
 [https://devsites.netlify.app/](https://devsites.netlify.app/)
 
+- https://github.com/zgparsons/usefulwebdev
+
 *This document gives an overview of how this website is set up.*
 
 DevSites is a list of noteworthy resources for Website Development. It is compiled by [ [@originalzedders](https://twitter.com/originalzedders) / [Zachary](https://zacharyparsons.co.uk) ]. It is not an exhaustive list, and it can (and hopefully will be) added to continuously (aiming for once a week or more).
